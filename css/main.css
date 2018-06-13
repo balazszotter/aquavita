@@ -748,7 +748,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .section-intro .with-bottom-line::after {
 	display: block;
-	background-color: #05bca9;
+	background-color: #00BFFF;
 	width: 120px;
 	height: 3px;
 	content: '\0020';
@@ -894,7 +894,7 @@ a.menu-toggle {
 /* main-nav-wrap */
 #main-nav-wrap {
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 11.5px;
+	font-size: 15px;
 	text-transform: uppercase;
 	letter-spacing: 1.5px;
 	position: absolute;
@@ -927,7 +927,7 @@ a.menu-toggle {
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
-	background-color: #05bca9;
+	background-color: #00BFFF;
 	content: '\0020';
 	display: block;
 	-moz-transition: all 0.3s ease-in-out;
@@ -1178,7 +1178,7 @@ a.menu-toggle {
 	transform: translateY(-1.2rem);
 }
 .intro-content h1 {
-	color: #FFFFFF;
+	color: #00BFFF;
 	font-family: Arial, "Helvetica Neue", Helvetica, serif;
 	font-size: 5.4rem;
 	line-height: 1.334;
@@ -1187,7 +1187,7 @@ a.menu-toggle {
 	margin-right: auto;
 }
 .intro-content h5 {
-	color: rgba(255, 255, 255, 0.6);
+	color: rgba(255, 255, 255, 0.8);
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 1.8rem;
 	line-height: 1.667;
@@ -1215,8 +1215,8 @@ a.menu-toggle {
 	letter-spacing: .4rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	color: #05bca9;
-	border-color: #05bca9;
+	color: #00BFFF;
+	border-color: #00BFFF;
 }
 
 /**
@@ -1462,7 +1462,7 @@ a.menu-toggle {
 	margin-bottom: 1.5rem;
 }
 .process-content h5 {
-	color: #05bca9;
+	color: #00BFFF;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	letter-spacing: .2rem;
@@ -1565,7 +1565,7 @@ a.menu-toggle {
 .features-list .h05 {
 	font-size: 1.7rem;
 	line-height: 1.765;
-	color: #05bca9;
+	color: #00BFFF;
 	margin-bottom: 1.8rem;
 }
 
@@ -1809,12 +1809,12 @@ a.menu-toggle {
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 2.5rem;
 	line-height: 1.8;
-	color: #8d8d8d;
+	color: #00BFFF;
 }
 #testimonial-slider p::before, #testimonial-slider p::after {
 	display: inline;
 	font-family: Arial, sans-serif;
-	color: #c7c7c7;
+	color: #00BFFF;
 	font-size: 6rem;
 	line-height: 0;
 	vertical-align: bottom;
@@ -2163,7 +2163,7 @@ footer {
 	font-size: 1.5rem;
 	line-height: 2.7rem;
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-	color: #465166;
+	color: #00BFFF;
 }
 footer a, footer a:visited {
 	color: #05bca9;
@@ -2196,7 +2196,7 @@ footer ul li {
 	list-style: none;
 }
 .footer-main ul a, .footer-main ul a:visited {
-	color: #465166;
+	color: #00BFFF;
 }
 .footer-main ul a:hover, .footer-main ul a:focus {
 	color: #FFFFFF;
