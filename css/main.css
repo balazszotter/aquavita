@@ -1121,7 +1121,7 @@ a.menu-toggle {
 	}
 	.main-navigation li.current > a {
 		background: none;
-		color: #ff7b29;
+		color: #00BFFF;
 	}
 	.main-navigation li.current > a:after {
 		display: none;
@@ -1197,9 +1197,9 @@ a.menu-toggle {
 }
 .intro-content .video-link a {
 	display: inline-block;
-	width: 90px;
-	height: 90px;
-	margin-bottom: 4.2rem;
+	width: 300px;
+	/**height: 90px; */
+	margin-bottom: 0.2rem;
 	outline: none;
 }
 .intro-content .button {
@@ -1239,9 +1239,9 @@ a.menu-toggle {
 		font-size: 1.6rem;
 	}
 	.intro-content .video-link a {
-		width: 72px;
-		height: 72px;
-		margin-bottom: 3rem;
+		width: 200px;
+		/** height: 172px; */
+		margin-bottom: 0.2rem;
 	}
 }
 @media only screen and (max-width:768px) {
@@ -1270,9 +1270,9 @@ a.menu-toggle {
 		letter-spacing: .15rem;
 	}
 	.intro-content .video-link a {
-		width: 66px;
-		height: 66px;
-		margin-bottom: 1.5rem;
+		width: 160px;
+		/* height: 66px; */
+		margin-bottom: 0.2rem;
 	}
 }
 @media only screen and (max-width:400px) {
